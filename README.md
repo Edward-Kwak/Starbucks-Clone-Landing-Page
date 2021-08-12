@@ -1,7 +1,20 @@
 # Starbucks Clone Page
-스타벅스 랜딩 페이지 클론 프로젝트
+<h2>Starbucks Landing Page Clone Project.</h2>
+<br></br>
 
-<img src="starbucks_landing_page_clone_by_edward.png"></img>
+# Demo Video
 
-# introduce
-- HTML5, CSS, JavaScript로 구현
+<img src="starbucks_landing_page_clone_gif.gif"></img>
+<br></br>
+
+# Stack
+- HTML5
+- CSS3
+- JavaScript
+<br></br>
+
+# Plugins
+- Lodash
+- Swiper
+- gsap
+- Scroll Magic
